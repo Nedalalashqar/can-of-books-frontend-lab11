@@ -1,0 +1,3 @@
+REACT_APP_SERVER_URL=http://localhost:3001
+REACT_APP_AUTH0_DOMAIN=dev-adxhi7px.us.auth0.com
+REACT_APP_CLIENT_ID=ckUvXDdyYxL3ys81runzlH4Ir6pNDCkA
